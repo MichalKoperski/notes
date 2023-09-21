@@ -65,6 +65,9 @@ Using smbclient to Connect to the Share
 
 ```
 smbclient -L IPaddressOfTarget -U htb-student
+
+#łączenie z danym zasobem użytkownikiem bob
+smbclient -U bob //10.129.42.253/users
 ```
 
 Mounting to the Share
