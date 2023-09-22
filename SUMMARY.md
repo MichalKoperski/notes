@@ -6,4 +6,3 @@
 * [bash](bash.md)
 * [NETWORKING  ](networking.md)
 * [windows](windows.md)
-* [mac](mac.md)
