@@ -9,3 +9,4 @@
 * [ARP spoof](arp-spoof.md)
 * [powershell](powershell.md)
 * [search terms](search-terms.md)
+* [linux install](linux-install.md)
